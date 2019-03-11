@@ -1,5 +1,5 @@
 # OracleAPEX-forgot-password
-Oracle APEX forgot password method for APEX authentication for end users. Yes, a working method for change password not-authenticated user. But with a not-safe procedure. This is just core-method. Not working on apex.oracle.com!
+Oracle APEX forgot password method for APEX authentication for end users. Yes, a working change password method for not-authenticated user. But with a not-safe procedure. This is just core-method. Not working on apex.oracle.com!
 
 # DEMO
 
